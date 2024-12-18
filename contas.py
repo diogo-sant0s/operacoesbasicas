@@ -1,10 +1,3 @@
-a = 0
-b = 0
-sum = 0
-subtraction = 0
-division = 0
-multiplication = 0
-
 a = int(input("Introduza um número inteiro:"))
 b = int(input("Introduza outro número inteiro:"))
 

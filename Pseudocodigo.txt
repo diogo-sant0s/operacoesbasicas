@@ -1,21 +1,21 @@
-Algoritmo contas;
+Algorythm contas;
 
-Variáveis A e B, soma, subtração, divisão, multiplicação: inteiro;
+Variables A e B, sum, subtraction, division, multiplication: integer;
 
-Inicio
-    Escrever("Introduza um número inteiro);
-    Ler(a);
-    Escrever("Introduza outro número inteiro);
-    Ler(b);
+Beginning
+        Write("Enter an integer");
+    read(a);
+        Write("enter another integer");
+    read(b);
 
-    soma = a + b 
-    subtração = a - b 
-    divisão = a / b 
-    multiplicação = a * b 
+    sum = a + b 
+    subtraction = a - b 
+    division = a / b 
+    multiplication = a * b 
     
-    Escrever("Resultado da soma", soma)
-    Escrever("Resultado da subtração", subtração)
-    Escrever("Resultado da divisão", divisão)
-    Escrever("Resultado da multiplicação", multiplicação)
+        Write("Result of the sum", sum)
+        Write("Result of the subtraction", subtraction)
+        Write("Result of the division", division)
+        Write("Result of the multiplication", multiplication)
 
-Fim
+End

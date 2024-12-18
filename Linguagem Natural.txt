@@ -1,6 +1,18 @@
-1- Inicio 
-2- Solicita ao Utilizador o A 
-3- Solicita ao Utilizador o B
-4- Calcula a soma, subtração, divisão e multiplicação entre A e B
-5- Apresenta o resultado da soma na tela
-6- Fim
+1- Beginning 
+
+2- Solicite the user the n1 
+3- Shows in the screen "Write an integer"
+4- Solicite the user the n2
+5- Shows in the screen "Write another integer"
+
+6- Calculate the sum bitween n1 and n2
+7- Calculate the subtraction bitween n1 and n2
+8- Calculate the division bitween n1 and n2
+9- Calculate the multiplication bitween n1 and n2
+
+10- Shows the result of the sum in the screen
+11- Shows the result of the subtraction in the screen
+12- Shows the result of the division in the screen
+13- Shows the result of the multiplication in the screen
+
+14- End
