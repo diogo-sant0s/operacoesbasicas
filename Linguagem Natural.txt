@@ -1,0 +1,6 @@
+1- Inicio 
+2- Solicita ao Utilizador o A 
+3- Solicita ao Utilizador o B
+4- Calcula a soma, subtração, divisão e multiplicação entre A e B
+5- Apresenta o resultado da soma na tela
+6- Fim

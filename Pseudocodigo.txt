@@ -1,0 +1,21 @@
+Algoritmo contas;
+
+Variáveis A e B, soma, subtração, divisão, multiplicação: inteiro;
+
+Inicio
+    Escrever("Introduza um número inteiro);
+    Ler(a);
+    Escrever("Introduza outro número inteiro);
+    Ler(b);
+
+    soma = a + b 
+    subtração = a - b 
+    divisão = a / b 
+    multiplicação = a * b 
+    
+    Escrever("Resultado da soma", soma)
+    Escrever("Resultado da subtração", subtração)
+    Escrever("Resultado da divisão", divisão)
+    Escrever("Resultado da multiplicação", multiplicação)
+
+Fim
