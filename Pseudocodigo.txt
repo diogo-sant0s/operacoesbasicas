@@ -1,4 +1,4 @@
-Algorythm contas;
+Algorythm Contas;
 
 Variables A e B, sum, subtraction, division, multiplication: integer;
 

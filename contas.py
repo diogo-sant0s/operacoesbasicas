@@ -1,5 +1,5 @@
-a = int(input("Introduza um número inteiro:"))
-b = int(input("Introduza outro número inteiro:"))
+a = int(input("Write an integer:"))
+b = int(input("Write another integer:"))
 
 sum = a + b
 subtraction = a - b
@@ -7,8 +7,8 @@ division = a / b
 multiplication = a * b 
 
 
-print(f"Resultado da subtração {a} - {b} = {sum}")
-print(f"Resultado da soma {a} + {b} = {subtraction}")
-print(f"Resultado da divisão {a} / {b} = {division}")
-print(f"Resultado da multiplicação {a} * {b} = {multiplication}")
+print(f"Result of the sum {a} + {b} = {sum}")
+print(f"Result of the subtraction {a} - {b} = {subtraction}")
+print(f"Result of the division {a} / {b} = {division}")
+print(f"Result of the multiplication {a} * {b} = {multiplication}")
       
